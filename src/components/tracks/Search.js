@@ -44,7 +44,7 @@ class Search extends Component {
                {value => {
                  const { dispatch } = value;
                    return (
-                       <div className="card card-body mb-8 p-8">
+                       <div className="card card-body mb-8 p-6">
                         <h1 className="display-4 text-center title">
                             <i className="fas fa-music"> Search for a Song </i>
                         </h1>
