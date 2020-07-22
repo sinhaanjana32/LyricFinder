@@ -1,0 +1,2 @@
+:root{--danger:#05dfd7;--blue:#fa26a0;--light:#fff591}body{background-color:#fff591;background-color:var(--light)}.nb{background-color:#05dfd7;background-color:var(--danger)}.navbar-brand{color:#fff591;color:var(--light);font-size:900}.btn{background-color:#05dfd7;background-color:var(--danger)}.footer,.title{color:#fa26a0;color:var(--blue)}.footer{justify-content:center;text-align:center;text-transform:uppercase;background-color:#05dfd7;background-color:var(--danger);font-weight:600}.span{font-weight:900}
+/*# sourceMappingURL=main.705587de.chunk.css.map */
