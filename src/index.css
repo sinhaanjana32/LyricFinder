@@ -1,0 +1,40 @@
+:root {
+    --danger: #05dfd7;
+    --blue: #fa26a0;
+    --light: #fff591;
+  }
+  
+  body {
+    background-color: var(--light);
+  }
+
+  .nb {
+    background-color:var(--danger);
+  }
+
+  .navbar-brand{
+    color: var(--light);
+    font-size: 900;
+  }
+
+  .btn {
+    background-color:var(--danger);
+  }
+
+  .title {
+    color: var(--blue);
+  }
+
+
+.footer {
+    justify-content: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: var(--blue);
+    background-color:var(--danger);
+    font-weight: 600;
+}
+
+.span {
+    font-weight: 900;
+}
